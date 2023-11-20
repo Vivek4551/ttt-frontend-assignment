@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 # Live Project Link 
 
-Click here to check the hosted website - [Hosted Link]()
+Click here to check the hosted website - [Hosted Link](https://ttt-frontend-assignment-vivek.vercel.app/)
 
 ## Library Used
 
@@ -112,7 +112,10 @@ If the number of words is greater than the specified wordLimit, it slices the ar
 
 I chose to host my application on Vercel, a popular cloud hosting platform for web applications. The reason behind choosing this platfrom is that Vercel is easy to use and the deployment process is straightforward, and it's incredibly fast to get your application up and running. It allowed me to focus on delivering a great user experience.
 
-The link for my project is :- [clickk here !!]()
+The link for my project is :- [clickk here !!](https://ttt-frontend-assignment-vivek.vercel.app/)
+
+## My project images for all screen sizes.
+
 
 
 
