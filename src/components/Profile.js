@@ -47,7 +47,7 @@ const Profile = () => {
           <div className="flex flex-col gap-2 mx-4 md:mx-12">
             <p className="text-xl">{profile?.designation}</p>
             <a
-              href={profile?.["ig-link"]}
+              href={profile?.igLink}
               target="_blank"
               className="text-cyan-500 text-xl"
             >
