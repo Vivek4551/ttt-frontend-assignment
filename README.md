@@ -116,9 +116,13 @@ The link for my project is :- [clickk here !!](https://ttt-frontend-assignment-v
 
 ## My project images for all screen sizes.
 
+![photo_2023-11-20 22 43 23](https://github.com/Vivek4551/ttt-frontend-assignment/assets/77227718/e6e7b0ec-825a-4dab-8f08-409055d322c9)
 
 
+![photo_2023-11-20 22 43 09](https://github.com/Vivek4551/ttt-frontend-assignment/assets/77227718/6c9b6de7-34e6-45f6-8cc3-9b49221228f3)
 
+
+![photo_2023-11-20 22 43 18](https://github.com/Vivek4551/ttt-frontend-assignment/assets/77227718/bbbe567d-f287-4f32-9f14-59d418b98dc6)
 
 
 
